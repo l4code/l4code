@@ -12,13 +12,19 @@
 
 <h3> DevOps, Cloud & DevSecOps Engineer</h3>
 
-<h4> 🚀 Building my career path in DevOps & Cloud </h4>
+* 🚀 **Building** my career path in **DevOps, Cloud & Platform Engineering**
+* 🌱 Learning **automation, security, infrastructure & scalable systems**
+* ☁️ Exploring **Kubernetes, Docker, CI/CD & Cloud Native technologies**
+* 🔐 Passionate about **DevSecOps, security automation & infrastructure hardening**
+* ⚡ Interested in **Linux, networking, observability & system reliability**
+* 🛠️ Building **homelabs, automation projects & real-world infrastructure labs**
+* 📚 Sharing **notes, documentation & beginner-friendly learning materials**
+* 🤖 Exploring **AI for infrastructure automation & intelligent operations**
+* 👯 Looking for teammates to **learn, build & grow together**
+* 🤝 Open for **collaboration, open-source contributions & community projects**
+* 🎯 Goal: Becoming a reliable **DevOps / SRE / Cloud Engineer**
+* 🔥 Always learning new technologies and improving every day
 
-<h4> 🌱 Learning automation, security & infrastructure </h4>
-
-<h4> 👯 Looking for teammates to learn together </h4>
- 
-<h4> 🤝 Open for collaboration and building projects </h4>
 
 </td>
 
@@ -46,8 +52,14 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+<p align="center">
+ 
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
-## 🏆 My Tech Stack
+</p>
+
+
+## 🏆 Tech Stack
 
 ### **DevOps**
 
@@ -71,9 +83,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Planktond3v/Planktond3v/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
-  
-  
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Planktond3v/Planktond3v/pacman-output/pacman-contribution-graph-dark.svg">
