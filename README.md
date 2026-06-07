@@ -75,26 +75,26 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=planktond3v&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Forest%20Log" alt="GitHub Logging" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/langs?username=planktond3v&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Language%20Garden" alt="Programming Language" />
-      <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=planktond3v&theme=dark&hide_border=true&background=0D1117&ring=8DBA8E&fire=D6A85E&currStreakLabel=8DBA8E&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/planktond3v">
-    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=planktond3v&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-  <br/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.shion.dev/api?username=planktond3v&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
+</td>
+
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=planktond3v&theme=ambient_gradient&hide_border=true" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<br>
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=planktond3v&theme=ambient_gradient&hide_border=true&layout=compact" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Planktond3v/Planktond3v/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
